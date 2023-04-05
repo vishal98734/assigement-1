@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    height: 39vh;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: aqua;
+    padding: 51px 40px;
+    margin: 41px 264px;
+    border-radius: 15px;
+    border: 2px solid black;
+
+}
+
+#btnsubmit{
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 10px;
+    border-radius: 8px;
+    margin: 15px;
+    padding: 6px 22px;
+    color: #ffff;
+}
+
